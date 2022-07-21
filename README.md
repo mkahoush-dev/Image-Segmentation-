@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Image segmantation -- Unet, using Keras
 
 ---
@@ -81,3 +82,7 @@ The output will give you precision, recall, and F1-score of each image, as well 
 ![img/0truth.png](img/0truth.png)
 
 
+=======
+# Image-Segmentation-
+Developed an automated convoluted neural network with Keras used to segment images in 9 different highway related classes. Uses a modified version of U-Net architecture and tested with UAV scanned images.
+>>>>>>> fd79346fbacf63eb170dd84e601d323d5739d5fd
